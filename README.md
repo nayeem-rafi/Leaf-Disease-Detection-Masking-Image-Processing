@@ -1,4 +1,5 @@
 # Leaf Disease Detection Masking Image Processing
+By [Naimur Rahman](https://github.com/nayeem-rafi)
 
 This MATLAB script is designed for preprocessing and masking images of leaves with different health statuses to identify specific regions based on the HSV color space. It performs several key operations on three types of leaf images: healthy, unhealthy, and very unhealthy. The purpose of this script is to highlight disease areas for further analysis.
 
